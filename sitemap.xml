@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <!-- Homepage -->
+    <url>
+          <loc>https://www.onlyfreedomain.com/</loc>
+          <lastmod>2026-06-01</lastmod>
+          <changefreq>weekly</changefreq>
+          <priority>1.0</priority>
+    </url>
+
+    <!-- Blog Posts -->
+    <url>
+          <loc>https://www.onlyfreedomain.com/blog/free-domain-name-2026</loc>
+          <lastmod>2026-05-01</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.9</priority>
+    </url>
+
+    <url>
+          <loc>https://www.onlyfreedomain.com/blog/cheapest-domain-registrar</loc>
+          <lastmod>2026-04-15</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.9</priority>
+    </url>
+
+    <url>
+          <loc>https://www.onlyfreedomain.com/blog/dns-records-explained</loc>
+          <lastmod>2026-04-01</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority>
+    </url>
+
+    <url>
+          <loc>https://www.onlyfreedomain.com/blog/domain-seo-rankings</loc>
+          <lastmod>2026-03-15</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority>
+    </url>
+
+    <url>
+          <loc>https://www.onlyfreedomain.com/blog/ai-domain-generators</loc>
+          <lastmod>2026-03-01</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority>
+    </url>
+
+    <url>
+          <loc>https://www.onlyfreedomain.com/blog/domain-privacy-whois</loc>
+          <lastmod>2026-02-15</lastmod>
+          <changefreq>monthly</changefreq>
+          <priority>0.8</priority>
+    </url>
+
+    <!-- Trust Pages -->
+    <url>
+          <loc>https://www.onlyfreedomain.com/about</loc>
+          <lastmod>2026-06-01</lastmod>
+          <changefreq>yearly</changefreq>
+          <priority>0.5</priority>
+    </url>
+
+    <url>
+          <loc>https://www.onlyfreedomain.com/contact</loc>
+          <lastmod>2026-06-01</lastmod>
+          <changefreq>yearly</changefreq>
+          <priority>0.5</priority>
+    </url>
+
+    <url>
+          <loc>https://www.onlyfreedomain.com/privacy-policy</loc>
+          <lastmod>2026-06-01</lastmod>
+          <changefreq>yearly</changefreq>
+          <priority>0.4</priority>
+    </url>
+
+    <url>
+          <loc>https://www.onlyfreedomain.com/terms-of-service</loc>
+          <lastmod>2026-06-01</lastmod>
+          <changefreq>yearly</changefreq>
+          <priority>0.4</priority>
+    </url>
+
+</urlset>
